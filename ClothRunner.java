@@ -1,0 +1,112 @@
+class ClothRunner{
+	public static void main(String values[]){
+		String cloth1="tie";
+		String cloth2="socks";
+		String cloth3="cap";
+		String cloth4="hat";
+		String cloth5="shirt";
+		String cloth6="pant";
+		String cloth7="t-shirt";
+		String cloth8="tunic";
+		String cloth9="kurti";
+		String cloth10="kurta";
+		String cloth11="pyjama";
+		String cloth12="jeans";
+		String cloth13="straight cut jeans";
+		String cloth14="bootcut jeans";
+		String cloth15="flared jeans";
+		String cloth16="palazzo";
+		String cloth17="shorts";
+		String cloth18="leggings";
+		String cloth19="jeggings";
+		String cloth20="gown";
+		String cloth21="frock";
+		String cloth22="capris";
+		String cloth23="gloves";
+		String cloth24="dupatta";
+		String cloth25="scarf";
+		
+		String[] clothes={cloth1,cloth2,cloth3,cloth4,cloth5,cloth6,cloth7, cloth8, cloth9, cloth10, cloth11, cloth12, cloth13, cloth14, cloth15,cloth16,cloth17, cloth18, cloth19, cloth20, cloth21, cloth22, cloth23, cloth24,cloth25};
+		
+		System.out.println(clothes[0]);
+		System.out.println(clothes[1]);
+		System.out.println(clothes[2]);
+		System.out.println(clothes[3]);
+		System.out.println(clothes[4]);
+		System.out.println(clothes[5]);
+		System.out.println(clothes[6]);
+		System.out.println(clothes[7]);
+		System.out.println(clothes[8]);
+		System.out.println(clothes[9]);
+		System.out.println(clothes[10]);
+		System.out.println(clothes[11]);
+		System.out.println(clothes[12]);
+		System.out.println(clothes[13]);
+		System.out.println(clothes[14]);
+		System.out.println(clothes[15]);
+		System.out.println(clothes[16]);
+		System.out.println(clothes[17]);
+		System.out.println(clothes[18]);
+		System.out.println(clothes[19]);
+		System.out.println(clothes[20]);
+		System.out.println(clothes[21]);
+		System.out.println(clothes[22]);
+		System.out.println(clothes[23]);
+		System.out.println(clothes[24]);
+		
+		System.out.println("\n Updated clothes \n");
+		
+		clothes[0]="skirt";
+		clothes[1]="nightie";
+		clothes[2]="blazer";
+		clothes[3]="robe";
+		clothes[4]="jacket";
+		clothes[5]="sweater";
+		clothes[6]="sweatshirt";
+		clothes[7]="stockings";
+		clothes[8]="sleevless top";
+		clothes[9]="half sleeve top";
+		clothes[10]="coat";
+		clothes[11]="kaftan";
+		clothes[12]="camisole";
+		clothes[13]="tanktop";
+		clothes[14]="full sleeve";
+		clothes[15]="turtle neck";
+		clothes[16]="saree";
+		clothes[17]="blouse";
+		clothes[18]="bedsheets";
+		clothes[19]="curtains";
+		clothes[20]="hoodie";
+		clothes[21]="jumpers";
+		clothes[22]="jumpsuits";
+		clothes[23]="suit";
+		clothes[24]="cape";
+		
+		System.out.println(clothes[0]);
+		System.out.println(clothes[1]);
+		System.out.println(clothes[2]);
+		System.out.println(clothes[3]);
+		System.out.println(clothes[4]);
+		System.out.println(clothes[5]);
+		System.out.println(clothes[6]);
+		System.out.println(clothes[7]);
+		System.out.println(clothes[8]);
+		System.out.println(clothes[9]);
+		System.out.println(clothes[10]);
+		System.out.println(clothes[11]);
+		System.out.println(clothes[12]);
+		System.out.println(clothes[13]);
+		System.out.println(clothes[14]);
+		System.out.println(clothes[15]);
+		System.out.println(clothes[16]);
+		System.out.println(clothes[17]);
+		System.out.println(clothes[18]);
+		System.out.println(clothes[19]);
+		System.out.println(clothes[20]);
+		System.out.println(clothes[21]);
+		System.out.println(clothes[22]);
+		System.out.println(clothes[23]);
+		System.out.println(clothes[24]);
+		
+	}
+}
